@@ -1,0 +1,28 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.title-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.content-bg-wrap {
+  display: flex;
+  padding: 0px 150px;
+}
+.btn-wrapper {
+  display: flex;
+  gap: 10px;
+}
+.bg-container > img {
+  height: 800px;
+  width: 800px;
+}
+.content-container {
+  padding: 110px 100px;
+}
+.para {
+  font-size: 26px;
+  line-height: 1.5;
+}
